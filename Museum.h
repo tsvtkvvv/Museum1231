@@ -2,7 +2,7 @@
 
 class Museum {
 public:
-	Museum()
+	Museum();
 private:
 
-}
+};
