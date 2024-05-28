@@ -1,50 +1,25 @@
 #include "Rooms.h"
 
-Rooms::Rooms(double r_lenght, double r_wigdt, double r_height, double r_usefulArea, double r_allArea)
+
+
+using namespace std;
+
+class Rooms{
+public:
+	Rooms(double lenght, double wigdt, double height, double usefulArea, double allArea);
+
+double getHeight() const
 {
+	return r_height;
 }
 
-double Rooms::getHeight() const
+double getUsefulWallArea() const
 {
-	return 0.0;
+	return r_usefulArea;
 }
 
-double Rooms::getWidth() const
-{
-	return 0.0;
-}
+string Info() const;
 
-double Rooms::getLength() const
-{
-	return 0.0;
-}
-
-double Rooms::getTotalArea() const
-{
-	return 0.0;
-}
-
-double Rooms::getUsefulWallArea() const
-{
-	return 0.0;
-}
-
-void Rooms::setHeight(double height)
-{
-}
-
-void Rooms::setWidth(double width)
-{
-}
-
-void Rooms::setLength(double length)
-{
-}
-
-void Rooms::calculateTotalArea()
-{
-}
-
-void Rooms::calculateUsefulWallArea()
-{
-}
+private:
+	double r_lenght, r_wigdt, r_height, r_usefulArea, r_allArea;
+};
