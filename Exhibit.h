@@ -1,9 +1,13 @@
 #pragma once
 #include <string>
+using namespace std;
+
+
+
 class Exhibit {
 public:
-    std::string Author;
+    Exhibit(string author, int year);
+private:
+    string Author;
     int Year;
-
-    Exhibit(std::string author, int year);
 };

@@ -2,6 +2,6 @@
 #include <iostream>
 using namespace std;
 
-Exhibit::Exhibit(std::string author, int year) {
+Exhibit::Exhibit(string author, int year) {
 
 }

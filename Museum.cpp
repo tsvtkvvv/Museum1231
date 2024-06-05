@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-Museum::Museum(int count_of_rooms, double height, double length)
+Museum::Museum(int countOfRooms, double height, double length)
 {
 }
 
