@@ -16,7 +16,6 @@ Rooms::Rooms(double lenght, double width, double height, double usefulAreaFloor,
         throw std::invalid_argument("Can't create a room with these parameters of area.");
     }
 
-
     r_length = lenght;
     r_width = width;
     r_height = height;

@@ -1,5 +1,7 @@
-﻿  Rooms.cpp
-  VolumeExhibit.cpp
+﻿  Exhibit.cpp
+  Museum.cpp
+  Rooms.cpp
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(18,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(18,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(18,24): error C2238: unexpected token(s) preceding ';'
   Generating Code...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\User\source\repos\MuseumProject\Museum\x64\Debug\Museum.exe : fatal error LNK1120: 1 unresolved externals

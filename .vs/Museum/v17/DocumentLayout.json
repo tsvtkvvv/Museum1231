@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:Exhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\VolumeExhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:VolumeExhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:Exhibit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Rooms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:Rooms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:Museum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:Exhibit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\VolumeExhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:VolumeExhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Museum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:Museum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{36128C34-DBF0-4678-9B95-A98A52484A65}|Museum.vcxproj|solutionrelative:Exhibit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,40 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Museum.h",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Museum.h",
               "RelativeDocumentMoniker": "Museum.h",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Museum.h",
               "RelativeToolTip": "Museum.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-16T19:41:48.154Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Exhibit.h",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.h",
               "RelativeDocumentMoniker": "Exhibit.h",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.h",
               "RelativeToolTip": "Exhibit.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-23T07:29:32.767Z"
+              "WhenOpened": "2024-05-23T07:29:32.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "VolumeExhibit.h",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\VolumeExhibit.h",
               "RelativeDocumentMoniker": "VolumeExhibit.h",
@@ -84,52 +81,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Exhibit.cpp",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.cpp",
               "RelativeDocumentMoniker": "Exhibit.cpp",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Exhibit.cpp",
               "RelativeToolTip": "Exhibit.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-23T07:28:43.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Rooms.cpp",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Rooms.cpp",
               "RelativeDocumentMoniker": "Rooms.cpp",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Rooms.cpp",
               "RelativeToolTip": "Rooms.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAACAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-16T19:39:46.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Rooms.h",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Rooms.h",
               "RelativeDocumentMoniker": "Rooms.h",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Rooms.h",
               "RelativeToolTip": "Rooms.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-16T19:39:29.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Museum.cpp",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Museum.cpp",
               "RelativeDocumentMoniker": "Museum.cpp",
               "ToolTip": "C:\\Users\\User\\source\\repos\\MuseumProject\\Museum\\Museum.cpp",
               "RelativeToolTip": "Museum.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-16T19:38:19.809Z",
               "EditorCaption": ""
