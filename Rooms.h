@@ -1,33 +1,29 @@
 #pragma once
 #include <string>
-#include <iostream>
-#include <vector>
-
-using namespace std;
 
 class Rooms
 {
 public:
-	Rooms(double lenght, double wigdt, double height, double usefulAreaFloor, double allArea, double usefulAreaWall);
-    double usableWallArea() const;
-    double usableFloorArea() const;
-
-    Rooms(double r_lenght, double r_wigdt, double r_height, double usefulAreaFloor, double allArea, double usefulAreaWall) {
-        this->r_height = r_height;
-        this->r_lenght = r_lenght;
-        this->r_wigdt = r_wigdt;
-        this->r_usefulAreaFloor = usefulAreaFloor;
-        this->r_usefulAreaWall = usefulAreaWall;
-        this->r_allArea = allArea;
-    }
+   
+    Rooms(double lenght, double wigdt, double height, double usefulAreaFloor, double allArea, double usefulAreaWall);
 
     void setUsableWallArea(double newArea);
     void setUsableFloorArea(double newArea);
 
+    double floorArea() const;
+    double wallArea() const;
+
     std::string Info() const;
 
 private:
-	double r_lenght, r_wigdt, r_height, r_usefulAreaWall, r_allArea, r_usefulAreaFloor;
+   
+    double r_length;
+    double r_width;
+    double r_height;
+    double r_usefulAreaWall;
+    double r_allArea;
+    double r_usefulAreaFloor;
 };
+
 
 
