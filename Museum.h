@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Rooms.h"
+#include "Room/Rooms.h"
 #include <vector>
 
 class Museum {
@@ -10,9 +10,6 @@ public:
     void checkRoomExhibitArrangements() const;
 
 private:
-    std::vector<Rooms> rooms;
-    int countOfRooms;
-    double height;
-    double length;
+    vector<Rooms> rooms;
 };
 

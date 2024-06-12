@@ -18,27 +18,36 @@
     <ClCompile Include="Museum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Rooms.cpp">
+    <ClCompile Include="Room\Rooms.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Exhibit.cpp">
+    <ClCompile Include="Exhibits\Source\Exhibit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="VolumeExhibit.cpp">
+    <ClCompile Include="Exhibits\Source\VolumeExhibit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exhibits\Source\Picture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Rooms.h">
+    <ClInclude Include="Room\Rooms.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Museum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="VolumeExhibit.h">
+    <ClInclude Include="Exhibits\VolumeExhibit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Exhibit.h">
+    <ClInclude Include="Exhibits\Exhibit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exhibits\Picture.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

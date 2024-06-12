@@ -127,16 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Exhibit.cpp" />
+    <ClCompile Include="Exhibits\Source\Exhibit.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Museum.cpp" />
-    <ClCompile Include="Rooms.cpp" />
-    <ClCompile Include="VolumeExhibit.cpp" />
+    <ClCompile Include="Exhibits\Source\Picture.cpp" />
+    <ClCompile Include="Room\Rooms.cpp" />
+    <ClCompile Include="Exhibits\Source\VolumeExhibit.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Exhibit.h" />
+    <ClInclude Include="Exhibits\Exhibit.h" />
     <ClInclude Include="Museum.h" />
-    <ClInclude Include="Rooms.h" />
-    <ClInclude Include="VolumeExhibit.h" />
+    <ClInclude Include="Exhibits\Picture.h" />
+    <ClInclude Include="Room\Rooms.h" />
+    <ClInclude Include="Exhibits\VolumeExhibit.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
