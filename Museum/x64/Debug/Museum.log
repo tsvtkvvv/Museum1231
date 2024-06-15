@@ -1,34 +1,66 @@
-﻿  Exhibit.cpp
+﻿  ArchaeologicalExhibit.cpp
+  Exhibit.cpp
+C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\ArchaeologicalExhibit.cpp(1,10): error C1083: Cannot open include file: 'ArchaeologicalExhibit.h': No such file or directory
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,12): error C3646: 'Info': unknown override specifier
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,16): error C2059: syntax error: '('
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,24): error C2238: unexpected token(s) preceding ';'
-C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(13,11): error C2143: syntax error: missing ';' before '<'
-C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(13,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(13,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,24): error C2238: unexpected token(s) preceding ';'
 C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\Exhibit.cpp(25,75): error C2039: 'Info': is not a member of 'Rooms'
   main.cpp
-C:\Users\User\source\repos\MuseumProject\Museum\main.cpp(1,10): error C1083: Cannot open include file: 'Rooms.h': No such file or directory
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,12): error C3646: 'Info': unknown override specifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,16): error C2059: syntax error: '('
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,24): error C2238: unexpected token(s) preceding ';'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\execution(12): warning STL4038: The contents of <execution> are available only with C++17 or later.
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(50,15): error C2039: 'Info': is not a member of 'Rooms'
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(50,15): error C2270: 'Info': modifiers not allowed on nonmember functions
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(52,52): error C2065: 'r_width': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(53,12): error C2065: 'r_length': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(53,33): error C2065: 'r_height': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(54,64): error C2065: 'r_usefulAreaWall': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(55,65): error C2065: 'r_usefulAreaFloor': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\Exhibit.cpp(25,75): error C2039: 'Info': is not a member of 'Rooms'
+C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\Picture.cpp(18,10): error C2084: function 'Picture::Picture(const std::string &,int,const std::string &,const std::string &,double,double)' already has a body
   Museum.cpp
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,12): error C3646: 'Info': unknown override specifier
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,16): error C2059: syntax error: '('
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,24): error C2238: unexpected token(s) preceding ';'
-C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(13,11): error C2143: syntax error: missing ';' before '<'
-C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(13,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
-C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(13,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,24): error C2238: unexpected token(s) preceding ';'
   Picture.cpp
-C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\Picture.cpp(1,10): error C1083: Cannot open include file: 'Picture.h': No such file or directory
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,12): error C3646: 'Info': unknown override specifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,16): error C2059: syntax error: '('
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\Picture.cpp(18,10): error C2084: function 'Picture::Picture(const std::string &,int,const std::string &,const std::string &,double,double)' already has a body
   Rooms.cpp
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,12): error C3646: 'Info': unknown override specifier
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,16): error C2059: syntax error: '('
 C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,24): error C2238: unexpected token(s) preceding ';'
-C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(48,16): error C2039: 'Info': is not a member of 'Rooms'
-C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(48,16): error C2270: 'Info': modifiers not allowed on nonmember functions
-C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(49,40): error C2065: 'r_width': undeclared identifier
-C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(50,16): error C2065: 'r_length': undeclared identifier
-C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(51,16): error C2065: 'r_height': undeclared identifier
-C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(52,39): error C2065: 'r_usefulAreaWall': undeclared identifier
-C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(53,40): error C2065: 'r_usefulAreaFloor': undeclared identifier
-C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\VolumeExhibit.cpp(1,10): error C1083: Cannot open include file: 'VolumeExhibit.h': No such file or directory
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\execution(12): warning STL4038: The contents of <execution> are available only with C++17 or later.
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(50,15): error C2039: 'Info': is not a member of 'Rooms'
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(50,15): error C2270: 'Info': modifiers not allowed on nonmember functions
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(52,52): error C2065: 'r_width': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(53,12): error C2065: 'r_length': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(53,33): error C2065: 'r_height': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(54,64): error C2065: 'r_usefulAreaWall': undeclared identifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.cpp(55,65): error C2065: 'r_usefulAreaFloor': undeclared identifier
   VolumeExhibit.cpp
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,12): error C3646: 'Info': unknown override specifier
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,16): error C2059: syntax error: '('
+C:\Users\User\source\repos\MuseumProject\Museum\Room\Rooms.h(16,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,11): error C2143: syntax error: missing ';' before '<'
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\User\source\repos\MuseumProject\Museum\Museum.h(14,24): error C2238: unexpected token(s) preceding ';'
+  Sculpture.cpp
+C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\Sculpture.cpp(1,10): error C1083: Cannot open include file: 'Sculpture.h': No such file or directory
+  ScientificInstrument.cpp
+C:\Users\User\source\repos\MuseumProject\Museum\Exhibits\Source\ScientificInstrument.cpp(1,10): error C1083: Cannot open include file: 'ScientificInstrument.h': No such file or directory
   Generating Code...

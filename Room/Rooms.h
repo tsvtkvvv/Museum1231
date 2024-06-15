@@ -5,7 +5,7 @@ class Rooms
 {
 public:
    
-    Rooms(double lenght, double wigdt, double height, double usefulAreaFloor, double allArea, double usefulAreaWall);
+    Rooms(double length, double wigdt, double height, double usefulAreaFloor, double allArea, double usefulAreaWall);
 
     void setUsableWallArea(double newArea);
     void setUsableFloorArea(double newArea);

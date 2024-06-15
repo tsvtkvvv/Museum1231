@@ -127,19 +127,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Exhibits\Source\ArchaeologicalExhibit.cpp" />
     <ClCompile Include="Exhibits\Source\Exhibit.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Museum.cpp" />
     <ClCompile Include="Exhibits\Source\Picture.cpp" />
     <ClCompile Include="Room\Rooms.cpp" />
     <ClCompile Include="Exhibits\Source\VolumeExhibit.cpp" />
+    <ClCompile Include="Exhibits\Source\Sculpture.cpp" />
+    <ClCompile Include="Exhibits\Source\ScientificInstrument.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Exhibits\ArchaeologicalExhibit.h" />
     <ClInclude Include="Exhibits\Exhibit.h" />
     <ClInclude Include="Museum.h" />
     <ClInclude Include="Exhibits\Picture.h" />
     <ClInclude Include="Room\Rooms.h" />
     <ClInclude Include="Exhibits\VolumeExhibit.h" />
+    <ClInclude Include="Exhibits\Sculpture.h" />
+    <ClInclude Include="Exhibits\ScientificInstrument.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

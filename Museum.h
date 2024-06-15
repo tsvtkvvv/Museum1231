@@ -6,6 +6,7 @@
 class Museum {
 public:
     Museum(int countOfRooms, double height, double length);
+
     void addRoom(const Rooms& room);
     void checkRoomExhibitArrangements() const;
 

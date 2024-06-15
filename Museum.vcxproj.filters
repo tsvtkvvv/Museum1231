@@ -33,6 +33,15 @@
     <ClCompile Include="Exhibits\Source\Picture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Exhibits\Source\Sculpture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exhibits\Source\ArchaeologicalExhibit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exhibits\Source\ScientificInstrument.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Room\Rooms.h">
@@ -48,6 +57,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Exhibits\Picture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exhibits\Sculpture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exhibits\ArchaeologicalExhibit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exhibits\ScientificInstrument.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
